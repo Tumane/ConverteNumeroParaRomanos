@@ -7,6 +7,19 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>Numeros Para Binarios</h1>
+
+<form action="" method="">
+	
+	<tr>
+	
+	<td><input type="text" name="Valores" > </td>
+	<input type= "button" nome="Converter" value= "Converter">
+		
+	</tr>
+
+</form>
+
 
 </body>
 </html>
